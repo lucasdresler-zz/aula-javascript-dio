@@ -1,2 +1,2 @@
-# aula-javascript
+# aula-javascript-dio
 Introdução ao Javascript
